@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "404046991954",
+    "project_id": "flutter-zartek",
+    "storage_bucket": "flutter-zartek.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:404046991954:android:713a85cfcee7bfb166058b",
+        "android_client_info": {
+          "package_name": "com.example.flutter_zartek_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "404046991954-0j2pm55jvm3s10gd54mlg4bomver8j3f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_zartek_test",
+            "certificate_hash": "efaac66a4c6f6e03bd3f59364dd85ab63f954829"
+          }
+        },
+        {
+          "client_id": "404046991954-4nugo7nmllf4ic1b7qahqd0hod8bsk0j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRQEYvi2COqi8w159p_hRNkyhkVO6fRys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "404046991954-4nugo7nmllf4ic1b7qahqd0hod8bsk0j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
